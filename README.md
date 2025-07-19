@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vshee12" target="blank"><img src="https://img.shields.io/twitter/follow/vshee12?logo=twitter&style=for-the-badge" alt="vshee12" /></a> </p>
 
-- 🔭 I’m currently working on **YourGold**
+- 🔭 I’m currently working on **YourGold** and **AgentsPanel**
 
 - 🌱 I’m currently learning **Generative AI**
 
